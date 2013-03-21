@@ -362,7 +362,7 @@
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
-  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jellybean" />
+  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-mr1" />
   <project path="frameworks/native" name="TeamPA/frameworks_native" remote="github" revision="jellybean" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="jellybean" />
   <project path="packages/apps/DeskClock" name="TeamPA/packages_apps_DeskClock" remote="github" revision="jellybean" />
