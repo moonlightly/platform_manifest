@@ -356,7 +356,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="revolution" name="TeamPA/buildscripts" remote="github" revision="jellybean" >
-    <copyfile src="build_revolution.sh" dest="build_revo.sh" />
+    <copyfile src="build_revolution.sh" dest="build_revolution.sh" />
   </project>
   <project path="device/common" name="TeamPA/device_common" remote="github" revision="jellybean" />
   <project path="device/htc/ace" name="TeamPA/device_htc_ace" remote="github" revision="jellybean" />
