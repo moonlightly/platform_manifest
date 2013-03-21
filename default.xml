@@ -348,6 +348,9 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
 
+  <!-- Misc -->
+  <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" remote="github" revision="kb-stable" />
+
   <!-- Revolution Repos -->
   <project path="build" name="TeamPA/build" remote="github" revision="jellybean" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -373,6 +376,4 @@
   <project path="vendor/revo" name="TeamPA/vendor_revo" remote="github" revision="jellybean" />
   
   <project path="platform_manifest" name="TeamPA/platform_manifest" remote="github" revision="jellybean" />
-</manifest>
-  
-  
+</manifest> 
