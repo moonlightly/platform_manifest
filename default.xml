@@ -355,7 +355,6 @@
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="github" revision="cm10.1" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="Andro4.2" />
-  <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" remote="github" revision="kb-stable" />
 
   <!-- Revolution Repos -->
   <project path="build" name="TeamPA/build" remote="github" revision="jellybean" >
@@ -371,6 +370,7 @@
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
   <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jellybean" />
   <project path="frameworks/native" name="TeamPA/frameworks_native" remote="github" revision="jellybean" />
+  <project path="kernel/htc/CowboyKernel-7x30" name="TeamPA/CowboyKernel-7x30" remote="github" revision="jellybean" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="jellybean" />
   <project path="packages/apps/DeskClock" name="TeamPA/packages_apps_DeskClock" remote="github" revision="jellybean" />
   <project path="packages/apps/Gallery2" name="TeamPA/packages_apps_Gallery2" remote="github" revision="jellybean" />
@@ -378,8 +378,8 @@
   <project path="packages/apps/Phone" name="TeamPA/packages_apps_Phone" remote="github" revision="jellybean" />
   <project path="packages/apps/ROMControl" name="TeamPA/packages_apps_ROMControl" remote="github" revision="jellybean" />
   <project path="packages/apps/Settings" name="TeamPA/packages_apps_Settings" remote="github" revision="jellybean" />
-  <project path="packages/apps/XposedAppSettings" name="TeamPA/XposedAppSettings" remote="github" revision="master" />
-  <project path="packages/apps/XposedInstaller" name="TeamPA/XposedInstaller" remote="github" revision="master" />
+  <project path="packages/apps/XposedAppSettings" name="TeamPA/XposedAppSettings" remote="github" revision="jellybean" />
+  <project path="packages/apps/XposedInstaller" name="TeamPA/XposedInstaller" remote="github" revision="jellybean" />
   <project path="system/core" name="TeamPA/system_core" remote="github" revision="jellybean" />
   <project path="vendor/revo" name="TeamPA/vendor_revo" remote="github" revision="jellybean" />
   
