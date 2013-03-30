@@ -25,7 +25,7 @@
 
   <!-- AOKP Repos -->
   <project path="external/dnsmasq" name="external_dnsmasq" remote="aokp" revision="jb-mr1" />
-  <project path="external/e2fsprogs" name="AOKP/external_e2fsprogs" remote="aokp" revision="jb-mr1" />
+  <project path="external/e2fsprogs" name="external_e2fsprogs" remote="aokp" revision="jb-mr1" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/libpng" name="external_libpng" remote="aokp" revision="jb-mr1" />
   <project path="external/webkit" name="external_webkit" remote="aokp" revision="jb-mr1" />
