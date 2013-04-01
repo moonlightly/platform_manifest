@@ -375,6 +375,7 @@
   </project>
   <project path="device/common" name="TeamPA/device_common" remote="github" revision="jellybean" />
   <project path="device/htc/ace" name="TeamPA/device_htc_ace" remote="github" revision="jellybean" />
+  <project path="device/htc/saga" name="TeamPA/device_htc_saga" remote="github" revision="jb-mr1" />
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
@@ -388,6 +389,7 @@
   <project path="packages/apps/Phone" name="TeamPA/packages_apps_Phone" remote="github" revision="jellybean" />
   <project path="packages/apps/ROMControl" name="TeamPA/packages_apps_ROMControl" remote="github" revision="jellybean" />
   <project path="packages/apps/Settings" name="TeamPA/packages_apps_Settings" remote="github" revision="jellybean" />
+  <project path="vendor/htc/saga" name="TeamPA/vendor_htc_saga" remote="github" revision="jellybean" />
   <project path="vendor/revo" name="TeamPA/vendor_revo" remote="github" revision="jellybean" />
   
   <project path="platform_manifest" name="TeamPA/platform_manifest" remote="github" revision="jellybean" />
