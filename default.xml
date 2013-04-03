@@ -168,7 +168,6 @@
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssl" name="platform/external/openssl" />
-  <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
@@ -374,6 +373,7 @@
   <project path="device/htc/saga" name="TeamPA/device_htc_saga" remote="github" revision="jb-mr1" />
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
+  <project path="external/oprofile" name="TeamPA/external_oprofile" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
   <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jellybean" />
   <project path="frameworks/native" name="TeamPA/frameworks_native" remote="github" revision="jellybean" />
