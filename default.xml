@@ -287,7 +287,6 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/security" name="platform/system/security" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
   
@@ -386,6 +385,7 @@
   <project path="packages/apps/ROMControl" name="TeamPA/packages_apps_ROMControl" remote="github" revision="jellybean" />
   <project path="packages/apps/Settings" name="TeamPA/packages_apps_Settings" remote="github" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi" name="TeamPA/android_toolchain_eabi_linaro" remote="github" revision="master" />
+  <project path="system/security" name="TeamPA/system_security" remote="github" revision="jellybean" />
   <project path="vendor/htc/saga" name="TeamPA/vendor_htc_saga" remote="github" revision="jellybean" />
   <project path="vendor/revo" name="TeamPA/vendor_revo" remote="github" revision="jellybean" />
   
