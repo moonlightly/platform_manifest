@@ -359,7 +359,7 @@
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="github" revision="Andro4.2" />
 
   <!-- Revolution Repos -->
-  <project path="build" name="TeamPA/build" remote="github" revision="jb-mr1" >
+  <project path="build" name="TeamPA/build" remote="github" revision="jellybean" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="revolution" name="TeamPA/buildscripts" remote="github" revision="jellybean" >
