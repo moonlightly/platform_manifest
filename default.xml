@@ -374,7 +374,7 @@
   <project path="external/oprofile" name="TeamPA/external_oprofile" remote="github" revision="jellybean" />
   <project path="external/webkit" name="TeamPA/external_webkit" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
-  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jellybean" />
+  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-mr1" />
   <project path="frameworks/native" name="TeamPA/frameworks_native" remote="github" revision="jellybean" />
   <project path="kernel/htc/CowboyKernel-7x30" name="TeamPA/CowboyKernel-7x30" remote="github" revision="jellybean" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="jellybean" />
