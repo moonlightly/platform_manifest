@@ -82,7 +82,6 @@
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
-  <project path="external/doclava" name="platform/external/doclava" />
   <project path="external/dropbear" name="platform/external/dropbear" />
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
@@ -370,6 +369,7 @@
   <project path="device/htc/saga" name="TeamPA/device_htc_saga" remote="github" revision="jb-mr1" />
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
+  <project path="external/doclava" name="TeamPA/external_doclava" remote="github" revision="jb" />
   <project path="external/e2fsprogs" name="TeamPA/external_e2fsprogs" remote="github" revision="jellybean" />
   <project path="external/oprofile" name="TeamPA/external_oprofile" remote="github" revision="jellybean" />
   <project path="external/webkit" name="TeamPA/external_webkit" remote="github" revision="jellybean" />
