@@ -25,10 +25,10 @@
 
   <!-- AOKP Repos -->
   <project path="dalvik" name="dalvik" remote="aokp" revision="jb-mr1" />
-  <project path="external/dnsmasq" name="CarbonDev/external_dnsmasq" remote="github" revision="jb2" />
+  <project path="external/dnsmasq" name="external_dnsmasq" remote="aokp" revision="jb-mr1" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/libpng" name="external_libpng" remote="aokp" revision="jb-mr1" />
-  <project path="frameworks/rs" name="PipelinerArd/frameworks_rs" remote="github" revision="jb2" />
+  <project path="frameworks/rs" name="frameworks_rs" remote="aokp" revision="jb-mr1" />
   <project path="hardware/qcom/audio-caf" name="hardware_qcom_audio-caf" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="aokp" revision="jb-mr1" />
@@ -201,7 +201,7 @@
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
-  <project path="frameworks/ex" name="CarbonDev/frameworks_ex" remote="github" revision="jb2" />
+  <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
@@ -221,7 +221,7 @@
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" revision="refs/tags/android-4.2.1_r1.2" />
-  <project path="libcore" name="PipelinerArd/android_libcore" remote="github" revision="jb2" />
+  <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -336,7 +336,7 @@
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="cm" revision="cm-10.1" />
   <project path="prebuilt" name="android_prebuilt" remote="cm" revision="cm-10.1" />
   <project path="sdk" name="android_sdk" remote="cm" revision="cm-10.1" />
-  <project path="system/extras" name="PipelinerArd/android_system_extras" remote="github" revision="cm-10.1-linaro" />
+  <project path="system/extras" name="android_system_extras" remote="cm" revision="cm-10.1" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-10.1" />
@@ -347,7 +347,7 @@
   <project path="external/openssh" name="Mustaavalkosta/android_external_openssh" remote="github" revision="jb-mv" />
   <project path="external/openssl" name="Mustaavalkosta/android_external_openssl" remote="github" revision="jb-mv" />
   <project path="external/ping" name="Mustaavalkosta/android_external_ping" remote="github" revision="jb-mv" />
-  <project path="external/skia" name="PipelinerArd/android_external_skia" remote="github" revision="jb2" />
+  <project path="external/skia" name="PipelinerArd/external_skia" remote="github" revision="jb-mr1" />
   <project path="external/v8" name="Mustaavalkosta/android_external_v8" remote="github" revision="jb-mv" />
   <project path="external/stlport" name="Mustaavalkosta/android_external_stlport" remote="github" revision="jb-mv" />
   <project path="frameworks/wilhelm" name="Mustaavalkosta/android_frameworks_wilhelm" remote="github" revision="jb-mv" />
@@ -370,9 +370,9 @@
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
   <project path="external/doclava" name="TeamPA/external_doclava" remote="github" revision="jb" />
-  <project path="external/e2fsprogs" name="PipelinerArd/android_external_e2fsprogs" remote="github" revision="jb2" />
-  <project path="external/oprofile" name="CarbonDev/android_external_oprofile" remote="github" revision="jb2" />
-  <project path="external/webkit" name="PipelinerArd/android_external_webkit" remote="github" revision="jb2" />
+  <project path="external/e2fsprogs" name="TeamPA/external_e2fsprogs" remote="github" revision="jellybean" />
+  <project path="external/oprofile" name="TeamPA/external_oprofile" remote="github" revision="jellybean" />
+  <project path="external/webkit" name="TeamPA/external_webkit" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
   <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-pa" />
   <project path="frameworks/native" name="TeamPA/frameworks_native" remote="github" revision="jellybean" />
