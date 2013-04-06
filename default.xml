@@ -24,6 +24,7 @@
            sync-j="8" />
 
   <!-- AOKP Repos -->
+  <project path="dalvik" name="dalvik" remote="aokp" revision="jb-mr1" />
   <project path="external/dnsmasq" name="CarbonDev/external_dnsmasq" remote="github" revision="jb2" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/libpng" name="external_libpng" remote="aokp" revision="jb-mr1" />
@@ -298,7 +299,6 @@
   <project path="bionic" name="android_bionic" remote="cm" revision="cm-10.1" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
-  <project path="dalvik" name="PipelinerArd/android_dalvik" remote="github" revision="cm-10.1-linaro" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="cm" revision="cm-10.1" />
   <project path="external/busybox" name="android_external_busybox" remote="cm" revision="cm-10.1" />
   <project path="external/javasqlite" name="android_external_javasqlite" remote="cm" revision="cm-10.1" />
