@@ -24,6 +24,7 @@
            sync-j="8" />
 
   <!-- AOKP Repos -->
+  <project path="dalvik" name="dalvik" remote="aokp" revision="jb-mr1" />
   <project path="external/dnsmasq" name="external_dnsmasq" remote="aokp" revision="jb-mr1" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="aokp" revision="jb-mr1" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
@@ -50,7 +51,6 @@
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
@@ -305,7 +305,7 @@
   
   <!-- CFX Repos -->
   <project path="external/chromium" name="external_chromium" remote="cfx" revision="jb-devel" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" remote="cfx" revision="jb-devel" />
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.8" name="prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" remote="cfx" revision="jb-devel" />
   <project path="vendor/htc/ace" name="vendor_htc_ace" remote="cfx" revision="jb-devel" />
   <project path="vendor/qcom/proprietary" name="vendor_qcom_proprietary" remote="cfx" revision="jb-devel" />
 
@@ -378,7 +378,7 @@
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="TeamPA/frameworks_av" remote="github" revision="jellybean" />
-  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jellybean" />
+  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-pa" />
   <project path="frameworks/native" name="TeamPA/frameworks_native" remote="github" revision="jellybean" />
   <project path="kernel/htc/CowboyKernel-7x30" name="TeamPA/CowboyKernel-7x30" remote="github" revision="jellybean" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="jellybean" />
