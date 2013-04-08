@@ -167,7 +167,7 @@
   <project path="external/okhttp" name="platform/external/okhttp" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssl" name="TeamPA/external_openssl" remote="github" revision="classified" />
+  <project path="external/openssl" name="TeamPA/external_openssl" remote="github" revision="jellybean" />
   <project path="external/oprofile" name="UnicornButter/external_oprofile" remote="github" revision="jb-mr1" />
   <project path="external/ping" name="UnicornButter/external_ping" remote="github" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
