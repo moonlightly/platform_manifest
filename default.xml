@@ -326,7 +326,7 @@
   <project path="external/openssh" name="PipelinerArd/external_openssh" remote="github" revision="classified" />
   <project path="external/qrngd" name="android_external_qrngd" remote="cm" revision="cm-10.1" />
   <project path="external/wpa_supplicant_6" name="android_external_wpa_supplicant_6" remote="cm" revision="cm-10.1" />
-  <project path="external/wpa_supplicant_8" name="TeamPA/external_wpa_supplicant_8" remote="github" revision="classified" />
+  <project path="external/wpa_supplicant_8" name="PipelinerArd/external_wpa_supplicant_8" remote="github" revision="classified" />
   <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.1" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
