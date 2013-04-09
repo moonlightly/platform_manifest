@@ -316,8 +316,8 @@
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="cm" revision="cm-10.1" />
-  <project path="external/busybox" name="android_external_busybox" remote="cm" revision="cm-10.1" />
-  <project path="external/clang" name="android_external_clang" remote="cm" revision="cm-10.1" />
+  <project path="external/busybox" name="Mustaavalkosta/android_external_busybox" remote="github" revision="jb-mv" />
+  <project path="external/clang" name="Mustaavalkosta/android_external_clang" remote="github" revision="jb-mv" />
   <project path="external/javasqlite" name="android_external_javasqlite" remote="cm" revision="cm-10.1" />
   <project path="external/libncurses" name="android_external_libncurses" remote="cm" revision="cm-10.1" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="cm" revision="cm-10.1" />
@@ -334,7 +334,7 @@
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard"  remote="cm" revision="cm-10.1" />
   <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="cm" revision="cm-10.1" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="cm-10.1" />
-  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="cm-10.1" />
+  <project path="hardware/msm7k" name="Mustaavalkosta/android_hardware_msm7k" remote="github" revision="jb-mv" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cm" revision="cm-10.1" />
