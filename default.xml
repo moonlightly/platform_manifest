@@ -43,7 +43,7 @@
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="aokp" revision="jb-mr1" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="aokp" revision="jb-mr1" />
   <project path="prebuilts/misc" name="prebuilts_misc" remote="aokp" revision="jb-mr1" />
-  <project path="system/core" name="system_core" remote="aokp" revision="jb-mr1" />
+  <project path="system/core" name="PipelinerArd/system_core" remote="github" revision="classified" />
   <project path="system/vold" name="system_vold" remote="aokp" revision="jb-mr1" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr1" />
 
