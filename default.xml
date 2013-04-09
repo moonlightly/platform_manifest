@@ -29,7 +29,7 @@
   <project path="external/e2fsprogs" name="PipelinerArd/external_e2fsprogs" remote="github" revision="classified" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/libpng" name="external_libpng" remote="aokp" revision="jb-mr1" />
-  <project path="external/webkit" name="TeamPA/external_webkit" remote="github" revision="jb-mr1" />
+  <project path="external/webkit" name="Mustaavalkosta/external_webkit" remote="github" revision="jb-mv" />
   <project path="frameworks/rs" name="UnicornButter/frameworks_rs" remote="github" revision="jb-mr1" />
   <project path="hardware/qcom/audio-caf" name="hardware_qcom_audio-caf" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="aokp" revision="jb-mr1" />
