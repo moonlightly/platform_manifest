@@ -380,7 +380,7 @@
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="TeamPA/device_htc_msm7x30-common" remote="github" revision="jellybean" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" remote="github" revision="jb-mv" />
-  <project path="frameworks/base" name="PipelinerArd/frameworks_base" remote="github" revision="classified" />
+  <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-mr1" />
   <project path="frameworks/native" name="Mustaavalkosta/android_frameworks_native" remote="github" revision="jb-mv" />
   <project path="kernel/htc/CowboyKernel-7x30" name="TeamPA/CowboyKernel-7x30" remote="github" revision="jellybean" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="classified" />
