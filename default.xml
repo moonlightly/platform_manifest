@@ -24,7 +24,7 @@
            sync-j="8" />
 
   <!-- AOKP Repos -->
-  <project path="dalvik" name="dalvik" remote="aokp" revision="jb-mr1" />
+  <project path="dalvik" name="UnicornButter/dalvik" remote="github" revision="jb-mr1" />
   <project path="external/dnsmasq" name="PipelinerArd/external_dnsmasq" remote="github" revision="classified" />
   <project path="external/e2fsprogs" name="PipelinerArd/external_e2fsprogs" remote="github" revision="classified" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
