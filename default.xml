@@ -309,7 +309,7 @@
   <project path="external/chromium" name="PipelinerArd/external_chromium" remote="github" revision="jb-mr1" />
   <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.8" name="prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" remote="cfx" revision="jb-devel" />
   <project path="vendor/htc/ace" name="vendor_htc_ace" remote="cfx" revision="jb-devel" />
-  <project path="vendor/qcom/proprietary" name="vendor_qcom_proprietary" remote="cfx" revision="jb-devel" />
+  <project path="vendor/qcom/proprietary" name="Mustaavalkosta/android_vendor_qcom_proprietary" remote="github" revision="cm-10.1" />
 
   <!-- CM Repos -->
   <project path="bionic" name="Root-Box/android_bionic" remote="github" revision="jb-mr1" />
