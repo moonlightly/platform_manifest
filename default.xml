@@ -382,7 +382,7 @@
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" remote="github" revision="jb-mv" />
   <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-mr1" />
   <project path="frameworks/native" name="Mustaavalkosta/android_frameworks_native" remote="github" revision="jb-mv" />
-  <project path="kernel/htc/htc7x30-3.0" name="Mustaavalkosta/htc7x30-3.0" remote="github" revision="cm-10.1"
+  <project path="kernel/htc/htc7x30-3.0" name="Mustaavalkosta/htc7x30-3.0" remote="github" revision="cm-10.1" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="classified" />
   <project path="packages/apps/DeskClock" name="TeamPA/packages_apps_DeskClock" remote="github" revision="jellybean" />
   <project path="packages/apps/Gallery2" name="TeamPA/packages_apps_Gallery2" remote="github" revision="jellybean" />
