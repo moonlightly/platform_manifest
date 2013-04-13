@@ -391,7 +391,7 @@
   <project path="packages/apps/Phone" name="TeamPA/packages_apps_Phone" remote="github" revision="jellybean" />
   <project path="packages/apps/ROMControl" name="PipelinerArd/packages_apps_ROMControl" remote="github" revision="classified" />
   <project path="packages/apps/Settings" name="PipelinerArd/packages_apps_Settings" remote="github" revision="jellybean" />
-  <project path="vendor/revo" name="PipelinerArd/vendor_revo" remote="github" revision="jellybean" />
+  <project path="vendor/revo" name="TeamPA/vendor_revo" remote="github" revision="jellybean" />
   
   <project path="platform_manifest" name="TeamPA/platform_manifest" remote="github" revision="jellybean" />
 </manifest>
