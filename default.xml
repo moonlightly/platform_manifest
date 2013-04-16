@@ -378,12 +378,15 @@
   </project>
   <project path="device/common" name="TeamPA/device_common" remote="github" revision="jellybean" />
   <project path="device/htc/ace" name="TeamPA/android_device_htc_ace" remote="github" revision="classified" />
+  <project path="device/htc/saga" name="Andromadus/android_device_htc_saga" remote="github" revision="cm10.1" />
+  <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" remote="github" revision="jb4.2" />
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" remote="github" revision="jb-mv" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" remote="github" revision="jb-mv" />
   <project path="frameworks/base" name="TeamPA/frameworks_base" remote="github" revision="jb-mr1" />
   <project path="frameworks/native" name="Mustaavalkosta/android_frameworks_native" remote="github" revision="jb-mv" />
   <project path="kernel/htc/CowboyKernel-7x30" name="TeamPA/CowboyKernel-7x30" remote="github" revision="jellybean" />
+  <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" remote="github" revision="andromadus" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="classified" />
   <project path="packages/apps/DeskClock" name="TeamPA/packages_apps_DeskClock" remote="github" revision="jellybean" />
   <project path="packages/apps/Gallery2" name="TeamPA/packages_apps_Gallery2" remote="github" revision="jellybean" />
