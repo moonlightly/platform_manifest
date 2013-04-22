@@ -37,7 +37,6 @@
   <project path="packages/apps/Launcher2" name="packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/VoiceDialer" name="packages_apps_VoiceDialer" remote="aokp" revision="jb-mr1" />
   <project path="packages/inputmethods/LatinIME" name="packages_input_LatinIME" remote="aokp" revision="jb-mr1" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="aokp" revision="jb-mr1" />
