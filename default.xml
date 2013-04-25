@@ -346,7 +346,7 @@
   <project path="external/openssh" name="PipelinerArd/external_openssh" remote="github" revision="classified" />
   <project path="external/oprofile" name="UnicornButter/external_oprofile" remote="github" revision="jb-mr1" />
   <project path="external/ping" name="UnicornButter/external_ping" remote="github" revision="jb-mr1" />
-  <project path="external/skia" name="PipelinerArd/external_skia" remote="github" revision="jb-mr1" />
+  <project path="external/skia" name="Mustaavalkosta/android_external_skia" remote="github" revision="jb-mv" />
   <project path="external/stlport" name="UnicornButter/external_stlport" remote="github" revision="jb-mr1" />
   <project path="external/webkit" name="Mustaavalkosta/android_external_webkit" remote="github" revision="jb-mv" />
   <project path="external/wpa_supplicant_8" name="PipelinerArd/external_wpa_supplicant_8" remote="github" revision="classified" />
