@@ -338,13 +338,13 @@
   <project path="device/htc/msm7x30-common" name="PipelinerArd/android_device_htc_msm7x30-common" remote="github" revision="jb-mv" />
   <project path="external/busybox" name="Mustaavalkosta/android_external_busybox" remote="github" revision="jb-mv" />
   <project path="external/chromium" name="PipelinerArd/external_chromium" remote="github" revision="jb-mr1" />
-  <project path="external/clang" name="SaberMod/android_external_clang" remote="github" revision="sm-jb-mr1" />
+  <project path="external/clang" name="Mustaavalkosta/android_external_clang" remote="github" revision="jb-mv" />
   <project path="external/dnsmasq" name="PipelinerArd/external_dnsmasq" remote="github" revision="classified" />
   <project path="external/e2fsprogs" name="PipelinerArd/external_e2fsprogs" remote="github" revision="classified" />
   <project path="external/llvm" name="PipelinerArd/external_llvm" remote="github" revision="classified" />
   <project path="external/openssl" name="TeamPA/external_openssl" remote="github" revision="jellybean" />
   <project path="external/openssh" name="PipelinerArd/external_openssh" remote="github" revision="classified" />
-  <project path="external/oprofile" name="XYAOSP/external_oprofile" remote="github" revision="jellybean" />
+  <project path="external/oprofile" name="UnicornButter/external_oprofile" remote="github" revision="jb-mr1" />
   <project path="external/ping" name="UnicornButter/external_ping" remote="github" revision="jb-mr1" />
   <project path="external/skia" name="Mustaavalkosta/android_external_skia" remote="github" revision="jb-mv" />
   <project path="external/stlport" name="UnicornButter/external_stlport" remote="github" revision="jb-mr1" />
@@ -368,7 +368,6 @@
   <project path="packages/apps/ROMControl" name="PipelinerArd/packages_apps_ROMControl" remote="github" revision="classified" />
   <project path="packages/apps/Settings" name="PipelinerArd/packages_apps_Settings" remote="github" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="linux,arm" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" groups="linux,arm" revision="master" />
   <project path="system/core" name="PipelinerArd/system_core" remote="github" revision="classified" />
   <project path="system/security" name="UnicornButter/system_security" remote="github" revision="jb-mr1" />
