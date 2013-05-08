@@ -24,6 +24,7 @@
            sync-j="8" />
 
   <!-- AOKP Repos -->
+  <project path="external/jbirdvegas/mGerrit" name="external_jbirdvegas_mGerrit" remote="aokp" revision="master" />
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/libpng" name="external_libpng" remote="aokp" revision="jb-mr1" />
   <project path="hardware/qcom/audio-caf" name="hardware_qcom_audio-caf" remote="aokp" revision="jb-mr1" />
