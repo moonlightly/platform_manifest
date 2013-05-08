@@ -28,7 +28,7 @@
   <project path="external/jpeg" name="external_jpeg" remote="aokp" revision="jb-mr1" />
   <project path="external/libpng" name="external_libpng" remote="aokp" revision="jb-mr1" />
   <project path="hardware/qcom/audio-caf" name="hardware_qcom_audio-caf" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Browser" name="packages_apps_Browser" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Browser" name="Root-Box/packages_apps_Browser" remote="github" revision="jb-mr1" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Launcher2" name="packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
@@ -387,12 +387,12 @@
   <project path="device/common" name="TeamPA/device_common" remote="github" revision="jellybean" />
   <project path="device/htc/ace" name="TeamPA/android_device_htc_ace" remote="github" revision="classified" />
   <project path="device/htc/common" name="TeamPA/device_htc_common" remote="github" revision="jellybean" />
-  <project path="frameworks/base" name="PipelinerArd/frameworks_base" remote="github" revision="jb-mr1" />
+  <project path="frameworks/base" name="PipelinerArd/frameworks_base" remote="github" revision="classified" />
   <project path="packages/apps/Camera" name="TeamPA/packages_apps_Camera" remote="github" revision="classified" />
   <project path="packages/apps/DeskClock" name="TeamPA/packages_apps_DeskClock" remote="github" revision="jellybean" />
-  <project path="packages/apps/Gallery2" name="TeamPA/packages_apps_Gallery2" remote="github" revision="jellybean" />
+  <project path="packages/apps/Gallery2" name="Root-Box/packages_apps_Gallery2" remote="github" revision="jb-mr1" />
   <project path="packages/apps/Mms" name="TeamPA/packages_apps_Mms" remote="github" revision="jellybean" />
-  <project path="packages/apps/Phone" name="TeamPA/packages_apps_Phone" remote="github" revision="jellybean" />
+  <project path="packages/apps/Phone" name="Root-Box/packages_apps_Phone" remote="github" revision="jb-mr1" />
   <project path="vendor/revo" name="TeamPA/vendor_revo" remote="github" revision="jellybean" />
   
   <project path="platform_manifest" name="TeamPA/platform_manifest" remote="github" revision="jellybean" />
