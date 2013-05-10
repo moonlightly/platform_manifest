@@ -337,7 +337,7 @@
   <project path="bionic" name="Root-Box/android_bionic" remote="github" revision="jb-mr1" />
   <project path="dalvik" name="UnicornButter/dalvik" remote="github" revision="jb-mr1" />
   <project path="development" name="UnicornButter/development" remote="github" revision="jb-mr1" />
-  <project path="device/htc/msm7x30-common" name="PipelinerArd/android_device_htc_msm7x30-common" remote="github" revision="jb-mv" />
+  <project path="device/htc/msm7x30-common" name="TeamPA/android_device_htc_msm7x30-common" remote="github" revision="jb-mv" />
   <project path="external/busybox" name="Mustaavalkosta/android_external_busybox" remote="github" revision="jb-mv" />
   <project path="external/chromium" name="PipelinerArd/external_chromium" remote="github" revision="jb-mr1" />
   <project path="external/clang" name="Mustaavalkosta/android_external_clang" remote="github" revision="jb-mv" />
