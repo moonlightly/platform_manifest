@@ -367,7 +367,7 @@
   <project path="hardware/ril" name="PipelinerArd/hardware_ril" remote="github" revision="jb-mv" />
   <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" remote="github" revision="kb-stable" />
   <project path="libcore" name="UnicornButter/libcore" remote="github" revision="jb-mr1" />
-  <project path="packages/apps/ROMControl" name="TeamPA/packages_apps_ROMControl" remote="github" revision="jb-mr1" />
+  <project path="packages/apps/ROMControl" name="PipelinerArd/packages_apps_ROMControl" remote="github" revision="jb-mr1-dev" />
   <project path="packages/apps/Settings" name="PipelinerArd/packages_apps_Settings" remote="github" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="linux,arm" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" groups="linux,arm" revision="master" />
